@@ -26,8 +26,8 @@ yarn
 
 First launch the database 
 ```
-chmod +x /db/start-dev.db.sh 
-./db/start-dev.db.sh
+chmod +x ./db/start-dev-db.sh 
+./db/start-dev-db.sh
 ```
 
 ## Launch backend
