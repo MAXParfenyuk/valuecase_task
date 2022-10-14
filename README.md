@@ -1,4 +1,4 @@
-[preview](./preview.png)
+![preview](./preview.png)
 
 # Valuecase Tech Challenge
 
